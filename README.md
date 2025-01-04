@@ -6,9 +6,8 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 # Hardware Upgrades
 
-BTT PITFT50 V2.1<br/>
+BTT PITFT50 V2.1  
 https://biqu.equipment/collections/lcd-screen/products/bigtreetech-pi-tft43-v2-0-screen-board
-
 
 BTT Pi2<br/>
 https://biqu.equipment/collections/adapter-pi-series/products/bigtreetech-pi-2-cb2
