@@ -4,7 +4,7 @@ Klipper backup script for manual or automated GitHub backups
 This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
 
 
-Hardware Upgrades:
+###Hardware Upgrades:
 
   BTT PITFT50 V2.1
 https://biqu.equipment/collections/lcd-screen/products/bigtreetech-pi-tft43-v2-0-screen-board
