@@ -17,6 +17,8 @@ https://biqu.equipment/collections/adapter-pi-series/products/bigtreetech-pi-2-c
 BTT SFS 2.0  
 https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor?_pos=2&_psq=sfs&_ss=e&_v=1.0
 
+## [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
+
 ## Miscellanious
 
 Generic Enclosure  
@@ -30,6 +32,3 @@ https://de.aliexpress.com/item/1005007438124730.html?spm=a2g0o.order_list.order_
 
 Heatsinks for Y and X Motors  
 https://de.aliexpress.com/item/1005004064516856.html?spm=a2g0o.order_list.order_list_main.23.45685c5fo5fd7f&gatewayAdapt=glo2deu
-
-
-## [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
