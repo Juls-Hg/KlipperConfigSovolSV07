@@ -6,7 +6,7 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 # Hardware Upgrades
 
-## [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
+### [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
 
 ## Replacement for Stock Screen
 
