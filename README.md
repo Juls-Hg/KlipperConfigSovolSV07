@@ -6,6 +6,8 @@ This backup is provided by [klipper-backup](https://github.com/Staubgeborener/kl
 
 # Hardware Upgrades
 
+## [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
+
 ## Replacement for Stock Screen
 
 BTT PITFT50 V2.1  
@@ -16,8 +18,6 @@ https://biqu.equipment/collections/adapter-pi-series/products/bigtreetech-pi-2-c
 
 BTT SFS 2.0  
 https://biqu.equipment/products/btt-sfs-v2-0-smart-filament-sensor?_pos=2&_psq=sfs&_ss=e&_v=1.0
-
-## [Printed Files](https://www.printables.com/@JulsHg_262109/collections/1596245)
 
 ## Miscellanious
 
