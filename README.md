@@ -32,3 +32,9 @@ https://de.aliexpress.com/item/1005007438124730.html?spm=a2g0o.order_list.order_
 
 Heatsinks for Y and X Motors  
 https://de.aliexpress.com/item/1005004064516856.html?spm=a2g0o.order_list.order_list_main.23.45685c5fo5fd7f&gatewayAdapt=glo2deu
+
+Creality BiMetalic Nozzle Set (got it for $10)  
+https://www.amazon.de/gp/product/B0CG5N7Q7Y?ie=UTF8&th=1
+
+BTT S2DW  
+https://biqu.equipment/products/adxl-345-accelerometer-board-for-36-stepper-motors?variant=40446852759650
